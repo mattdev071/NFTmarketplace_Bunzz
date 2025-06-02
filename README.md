@@ -52,6 +52,9 @@ This will direct you to the purchase page, where you will need to specify the nu
 
 Once the launchpad session has elapsed, you have the option to withdraw your NFT holdings from the launchpad. To do this, you can simply navigate to the “ENDED” tab on the launchpad page where you participated in the token sale, and click on the launchpad you had participated in. From there, you can initiate the process of withdrawing your NFTs, click on the “Withdraw” button on the page. This feature ensures that you have full control over your NFT assets and can manage them as per your preferences.
 
+You can contact me if you want a better product.
+Telegram: https://t.me/mattdev071
+
 ## **Conclusion**
 
 NiFT provides a reliable and user-friendly platform for creators and investors to interact in the world of NFTs. With a wide range of features, including the ability to buy, sell, and create NFTs, as well as participate in token sales, our platform offers a comprehensive solution for anyone interested in this rapidly evolving space. By following the steps outlined in this guide, you can easily start using our application as an end user.
